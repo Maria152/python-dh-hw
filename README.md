@@ -1,6 +1,6 @@
 # Домашение задания по курсу "питон для гуманитариев"
 Меня зовут Маша, Я занимаюсь философией и учусь на [факультете гуманирных наук](https://hum.hse.ru). Мои научные интересы:
 1. политическая философия
-2. искусство 
+2. искусство
 какая-то картинка
-![](https://www.google.ru/search?biw=1280&bih=610&tbm=isch&sa=1&ei=PKrUW4mqL42QmgXDmYP4Aw&q=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0+%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F&oq=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B0+%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F&gs_l=img.3...32301.34824.0.34948.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.img..0.0.0....0.vCw_O_HVuFo#imgrc=aSfkfl9btw9kDM:)
+![](http://3.bp.blogspot.com/-_DLc3qDxsNA/VenIznBsK7I/AAAAAAAAB0A/GHjI_97B364/s1600/TheFunk.jpg)
